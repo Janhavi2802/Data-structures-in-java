@@ -1,5 +1,14 @@
 Important sorting algorithms
-
+1) Searching Algorithm: a.Linear Search b.Binary Search
+2) Sorting Algorithm: a.Selection sort b.Merge Sort c.Bubble Sort d.Quick sort e.Insertion sort f.heap sort
+3) Greedy Algorithm
+4) Kadane's Algorithm
+5) Sliding Algorithm
+6) Graphs: a.DFS b.BFS c.Finding cycle d.Topological sorting e.MST(Kruskal) f.Shortest Path
+7) Knapsack problems
+8) Dijkstras/Bellman ford
+9) Longest Common Subsequence
+10)KMP Algorithm
 
 1. Arrays and Strings
 a. Two Sum(LeetCode 1)
