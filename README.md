@@ -10,7 +10,7 @@ Important sorting algorithms
 9) Longest Common Subsequence
 10)KMP Algorithm
 
-1. Arrays and Strings
+1.Arrays and Strings
 a. Two Sum(LeetCode 1)
 b. Longest Substring without Repeating Characters(LeetCode 3)
 c. Product of Array Except Self(LeetCode 238)
@@ -43,35 +43,35 @@ c. Number of Islands(LeetCode 200)
 d. Graph Valid Tree(LeetCode 261)
 e. Word Ladder(LeetCode 127)
 
-6. Heaps
+6.Heaps
 a. Merge k sorted Lists(LeetCode 23)
 b. Top K Frequent Elements(LeetCode 215)
 c. Find Median from Data Stream(LeetCode 295)
 d. Kth largest Elements in an Array(LeetCode 215)
 e. Sliding window Median(LeetCode 480)
 
-7. Dynamic Programming
+7.Dynamic Programming
 a.  Climbing Stairs(LeetCode 70)
 b. Longest Increasing Subsequence(LeetCode 300)
 c. Coin Change(LeetCode 322)
 d. Longest Common Subsequence(LeetCode 11)
 e. Edit Distance(LeetCode 72)
 
-8. Backtracking 
+8.Backtracking 
 a. Subsets(LeetCode 78)
 b. Permutations(LeetCode 46)
 c. Combination Sum(LeetCode 39)
 d. N-Queens(LeetCode 51)
 e. Word Search(LeetCode 79)
 
-9. Greedy Algorithms
+9.Greedy Algorithms
 a. Gas station(LeetCode 134)
 b. Jump Game(LeetCode 55)
 c. Partition Labels(LeetCode 763)
 d. Minimum Number of Arrows to Burst Balloons(LeetCode 452)
 e. Assign Cookies(LeetCode 455)
 
-10. Divide and Conquer
+10.Divide and Conquer
 a. Merge Sort
 b. Quick Sort
 c. Kth Largest Element in Array(LeetCode 215)
